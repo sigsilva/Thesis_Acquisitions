@@ -1,0 +1,109 @@
+{
+           "names": [
+                      "Acc",
+                      "Gyr",
+                      "Mag",
+                      "SoundMeter",
+                      "Rot"
+           ],
+           "number of samples": [
+                      362946,
+                      362942,
+                      179995,
+                      4781,
+                      362942
+           ],
+           "starting times": [
+                      2041640293679.0,
+                      2041640293679.0,
+                      2041639702807.0,
+                      2042382450762.0,
+                      2041640293679.0
+           ],
+           "stopping times": [
+                      5641435040949.0,
+                      5641435040949.0,
+                      5641439726147.0,
+                      5641333207284.0,
+                      5641435040949.0
+           ],
+           "avg. sampling rates": [
+                      100.8238039891716,
+                      100.82269281470727,
+                      50.00111084865105,
+                      1.3281648800939299,
+                      100.82269281470727
+           ],
+           "min. sampling rate": 1.3281648800939299,
+           "max. sampling rate": 100.8238039891716,
+           "mean sampling rate": 70.75969306946622,
+           "std. sampling rate": 39.90757951890096,
+           "starting order": [
+                      "Mag",
+                      "Acc",
+                      "Gyr",
+                      "Rot",
+                      "SoundMeter"
+           ],
+           "stopping order": [
+                      "SoundMeter",
+                      "Acc",
+                      "Gyr",
+                      "Rot",
+                      "Mag"
+           ]
+}{
+           "names": [
+                      "WearAcc",
+                      "WearGyr",
+                      "WearHeartRate",
+                      "WearMag",
+                      "WearRotVec"
+           ],
+           "number of samples": [
+                      346150,
+                      337150,
+                      1944,
+                      332500,
+                      333900
+           ],
+           "starting times": [
+                      2094696572564.0,
+                      2094751652872.0,
+                      2094837483347.0,
+                      2094813649493.0,
+                      2094823959076.0
+           ],
+           "stopping times": [
+                      5692004190564.0,
+                      5691884464872.0,
+                      3992297449347.0,
+                      5341676149493.0,
+                      5355347694076.0
+           ],
+           "avg. sampling rates": [
+                      96.2244647268862,
+                      93.72714815401706,
+                      1.0240005242882684,
+                      102.4062460298211,
+                      102.40655401945725
+           ],
+           "min. sampling rate": 1.0240005242882684,
+           "max. sampling rate": 102.40655401945725,
+           "mean sampling rate": 79.15768269089398,
+           "std. sampling rate": 39.21587019876917,
+           "starting order": [
+                      "WearAcc",
+                      "WearGyr",
+                      "WearMag",
+                      "WearRotVec",
+                      "WearHeartRate"
+           ],
+           "stopping order": [
+                      "WearHeartRate",
+                      "WearMag",
+                      "WearRotVec",
+                      "WearGyr",
+                      "WearAcc"
+           ]
+}
